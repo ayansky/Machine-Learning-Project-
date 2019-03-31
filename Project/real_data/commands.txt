@@ -1,0 +1,6 @@
+./project -i ChenLiver2004_10237x157/ChenLiver2004_10237x157.txt -o ChenLiver2004_10237x157/Chen_output_60_5 -tr 40 -d 3 -mr 500
+
+./project -i ZhanMyeloma2006_54613x234/ZhanMyeloma2006_54613x234.txt -o ZhanMyeloma2006_54613x234/Zhan_output_60_5 -tr 60 -d 5 -mr 1000
+
+
+./project -i ChenLiver2004_10237x157/ChenLiver2004_10237x157.txt -o ChenLiver2004_10237x157/Chen_output_60_5 -tr 60 -d 70 -mr 500
